@@ -7,6 +7,7 @@ This is a react app that is
      *Uses fire base cloud functions
      *Uses fire base Auth
      *Deployed on heroku also
+     *Use of materilize for styling
 
 Links
   *heroku link: https://react-firebase-project-manager.herokuapp.com/
